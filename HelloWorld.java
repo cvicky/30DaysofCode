@@ -1,4 +1,4 @@
-//Day 01
+//Day 00
 
 import java.io.*;
 import java.util.*;
